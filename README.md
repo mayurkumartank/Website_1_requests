@@ -17,8 +17,8 @@ The script `website_request.py` fetches bid information from a specific website 
 
 1. Clone the repository:
 
-   - git clone https://github.com/your-username/web-scraping-project.git
-   cd web-scraping-project
+   - git clone https://github.com/mayurkumartank/Website_1_requests.git
+   cd Website_1_requests
 
 2. pip install -r requirements.txt
 
